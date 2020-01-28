@@ -1,0 +1,10 @@
+#board{
+ background-color: black;
+}
+
+.black {
+    background-color: black;
+}
+.white {
+    background-color: white;
+}
